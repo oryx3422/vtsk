@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-.env
+
 venv/
 Emotion-2/
-=======
-.env
-venv/
-Emotion-2/
->>>>>>> 813530fc33dacf6215c3545bfc88e45692c96b0a
 runs/
