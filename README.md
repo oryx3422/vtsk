@@ -47,7 +47,7 @@ python train.py
 
 **замените на свой путь к best.pt  !!!**
 
-ESC, чтобы закрыть окно opencv
+Нажмите `ESC`, чтобы закрыть окно opencv
 ```bash
 python realTime.py  # работает после обучения
 ```
