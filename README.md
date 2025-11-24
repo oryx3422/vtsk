@@ -57,7 +57,7 @@ python realTime.py  # работает после обучения
 - Лучшие классы: Happy / Neutral / Sad (AP ≈ 0.99)
 - Наиболее сложный класс: Confused (AP ≈ 0.86)
 
-![metrics_10epoch](./images/summary_12n.png)
+![metrics_10epoch_12n](./images/summary_12n.png)
 
 ## Результаты модели yolo12s
 - Классы: Angry, Confused, Happy, Neutral, Sad
@@ -67,7 +67,7 @@ python realTime.py  # работает после обучения
 - Лучшие классы: Happy / Neutral / Sad (AP ≈ 0.99)
 - Наиболее сложный класс: Confused (AP ≈ 0.86)
 
-![metrics_10epoch](./images/summary_12s.png)
+![metrics_10epoch_12s](./images/summary_12s.png)
 
 ## Результаты модели yolo12m
 - Классы: Angry, Confused, Happy, Neutral, Sad
@@ -77,4 +77,4 @@ python realTime.py  # работает после обучения
 - Лучшие классы: Happy / Neutral / Sad (AP ≈ 0.99)
 - Наиболее сложный класс: Confused (AP ≈ 0.86)
 
-![metrics_10epoch](./images/summary_12m.png)
+![metrics_10epoch_12m](./images/summary_12m.png)
