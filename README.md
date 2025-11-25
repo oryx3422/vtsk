@@ -55,6 +55,10 @@ python realTime.py  # работает после обучения
 
 ---
 
+![metrics_10epoch_comparison](./images/yolo_comparison.jpg)
+
+---
+
 ## Результаты модели yolo12n
 - Классы: Angry, Confused, Happy, Neutral, Sad
 - Обучение: 10 эпох, YOLOv12n
@@ -84,4 +88,3 @@ python realTime.py  # работает после обучения
 
 ---
 
-![metrics_10epoch_comparison](./images/yolo_comparison.jpg)
