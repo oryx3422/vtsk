@@ -60,30 +60,28 @@ python realTime.py  # работает после обучения
 - Обучение: 10 эпох, YOLOv12n
 - `mAP@0.5 = 0.954`, `mAP@0.5-0.95 ≈ 0.92`
 - `Precision ≈ 0.92`, `Recall ≈ 0.93`
-- Лучшие классы: Happy / Neutral / Sad (AP ≈ 0.99)
-- Наиболее сложный класс: Confused (AP ≈ 0.86)
 
 ![metrics_10epoch_12n](./images/summary_12n.png)
 
-<!--
+
 ## Результаты модели yolo12s
 
 - Классы: Angry, Confused, Happy, Neutral, Sad
 - Обучение: 10 эпох, YOLOv12s
-- `mAP@0.5 = 0.954`, `mAP@0.5-0.95 ≈ 0.92`
-- `Precision ≈ 0.92`, `Recall ≈ 0.93`
-- Лучшие классы: Happy / Neutral / Sad (AP ≈ 0.99)
-- Наиболее сложный класс: Confused (AP ≈ 0.86)
+- `mAP@0.5 = 0.96`, `mAP@0.5-0.95 ≈ 0.955`
+- `Precision ≈ 0.95`, `Recall ≈ 0.95`
 
 ![metrics_10epoch_12s](./images/summary_12s.png)
+
 
 ## Результаты модели yolo12m
 - Классы: Angry, Confused, Happy, Neutral, Sad
 - Обучение: 10 эпох, YOLOv12m
-- `mAP@0.5 = 0.954`, `mAP@0.5-0.95 ≈ 0.92`
-- `Precision ≈ 0.92`, `Recall ≈ 0.93`
-- Лучшие классы: Happy / Neutral / Sad (AP ≈ 0.99)
-- Наиболее сложный класс: Confused (AP ≈ 0.86)
+- `mAP@0.5 = 0.962`, `mAP@0.5-0.95 ≈ 0.96`
+- `Precision ≈ 0.955`, `Recall ≈ 0.956`
 
 ![metrics_10epoch_12m](./images/summary_12m.png)
--->
+
+---
+
+![metrics_10epoch_comparison](./images/yolo_comparison.jpg)
