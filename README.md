@@ -81,7 +81,7 @@ python realTime.py  # работает после обучения
 ## Результаты модели yolo12m
 - Классы: Angry, Confused, Happy, Neutral, Sad
 - Обучение: 10 эпох, YOLOv12m
-- `mAP@0.5 = 0.962`, `mAP@0.5-0.95 ≈ 0.96`
+- `mAP@0.5 = 0.956`, `mAP@0.5-0.95 ≈ 0.956`
 - `Precision ≈ 0.955`, `Recall ≈ 0.956`
 
 ![metrics_10epoch_12m](./images/summary_12m.png)
